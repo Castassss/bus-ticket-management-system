@@ -92,7 +92,8 @@ The final report can be accessed at the following link (Dropbox):
 
 Access is restricted → please request access if needed.
 
-```
+
+---
 
 ## License
 No explicit license included. Consider adding one (e.g., MIT).
