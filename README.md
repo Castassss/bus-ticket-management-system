@@ -1,4 +1,8 @@
 # Project — Bus Ticket Management System (Python + PostgreSQL)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Language](https://img.shields.io/badge/language-Python-blue)
+![Database](https://img.shields.io/badge/database-PostgreSQL-lightgrey)
+![Interface](https://img.shields.io/badge/interface-Console-orange)
 
 Console application in **Python + PostgreSQL** with two profiles:
 - **Customer**: register/login, view destinations/trips, buy tickets (with waiting list), view messages, cancel tickets, **Gold plan** (10% discount).
