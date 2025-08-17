@@ -1,4 +1,4 @@
-# Project — Delivery II (Travel System, Customer + Administrator)
+# Project — Bus Ticket Management System (Python + PostgreSQL)
 
 Console application in **Python + PostgreSQL** with two profiles:
 - **Customer**: register/login, view destinations/trips, buy tickets (with waiting list), view messages, cancel tickets, **Gold plan** (10% discount).
