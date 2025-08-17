@@ -86,5 +86,5 @@ Projeto/
 └── Projeto - Relatório.pdf
 ```
 
-## 📝 License
+## License
 No explicit license included. Consider adding one (e.g., MIT).
