@@ -96,4 +96,4 @@ Access is restricted → please request access if needed.
 ---
 
 ## License
-No explicit license included. Consider adding one (e.g., MIT).
+This project is licensed under the MIT License. See LICENSE for details.
