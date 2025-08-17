@@ -11,7 +11,7 @@ Console application in **Python + PostgreSQL** with two profiles:
 
 ## Requirements
 - Python 3.10+
-- PostgreSQL 13+ (with a DB named **`Projeto - Entrega II`**)
+- PostgreSQL 13+ (with a DB named **`Projeto`**)
 - Python dependencies: `psycopg2-binary`
 
 Install dependencies:
@@ -22,11 +22,11 @@ pip install -r requirements.txt
 ## Database
 1) Create the database (in psql):
 ```sql
-CREATE DATABASE "Projeto - Entrega II";
+CREATE DATABASE "Projeto";
 ```
 2) Create the tables (minimum functional — adjust if necessary):
 ```sql
-\c "Projeto - Entrega II"
+\c "Projeto"
 -- execute the content of schema.sql
 ```
 
@@ -45,7 +45,7 @@ pip install -r requirements.txt
 # 3) PostgreSQL running and DB ready (see "Database" section)
 
 # 4) start application (global menu)
-python "Projeto - Entrega II/Projeto.py"
+python "Projeto/Projeto.py"
 ```
 Initial menu:
 - **1) Customer** → `Cliente.escreve_cliente()`
@@ -75,7 +75,7 @@ Initial menu:
 
 ## Current Structure
 ```
-Projeto - Entrega II/
+Projeto/
 ├── Cliente.py
 ├── Projeto.py
 ├── Diagrama Entidade.json
@@ -83,7 +83,7 @@ Projeto - Entrega II/
 ├── Diagrama_Físico_Antigo.png
 ├── Diagrama_Fisico_Novo.png
 ├── Novo_Diagrama.png
-└── Projeto Entrega II - Relatório.pdf
+└── Projeto - Relatório.pdf
 ```
 
 ## 📝 License
