@@ -83,7 +83,15 @@ Projeto/
 ├── Diagrama_Físico_Antigo.png
 ├── Diagrama_Fisico_Novo.png
 ├── Novo_Diagrama.png
-└── Projeto - Relatório.pdf
+
+```
+
+## Report
+The final report can be accessed at the following link (Dropbox):  
+[Projeto-BD.pdf](https://www.dropbox.com/scl/fi/eq2f968a1c18jikamrq6k/Projeto-BD.pdf?rlkey=5vna66dfjqng55rd1hfk3xnv1&st=0gaejbo7&dl=0)
+
+Access is restricted → please request access if needed.
+
 ```
 
 ## License
